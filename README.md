@@ -3,7 +3,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 clickbank affiliate repo..
-update coming soon..
 
 First, run the development server:
 
