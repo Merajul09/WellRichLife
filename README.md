@@ -3,8 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 #WellRichLife
 
 clickbank affiliate repo... </br>
-update coming soon... </br>
-still working on it...
+update coming soon...
 
 ## Getting Started
 
