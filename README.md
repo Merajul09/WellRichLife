@@ -2,8 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 #WellRichLife
 
-clickbank affiliate repo... </br>
-update coming soon...
+clickbank affiliate repo...
 
 ## Getting Started
 
