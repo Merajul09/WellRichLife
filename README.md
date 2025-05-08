@@ -2,8 +2,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 #WellRichLife
 
-some changes coming soon...
-
 ## Getting Started
 
 First, run the development server:
