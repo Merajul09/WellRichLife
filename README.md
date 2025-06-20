@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 #WellRichLife
 
-working on it...
+working on it... </br>
+update coming soon...
 
 ## Getting Started
 
